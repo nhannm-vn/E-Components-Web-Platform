@@ -6,7 +6,7 @@ function App() {
     //   <Routers />
     //   <ToastContainer />
     // </div>
-    <div>ahihi</div>
+    <div className="text-red-500">ahihi</div>
   );
 }
 
